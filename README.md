@@ -4,11 +4,12 @@ You can find all files + a PDF with the challenge instructions in the zip file i
 
 Please send us your submission by:
 
-2018-06-03 23.59
+*2018-06-03 23.59*
 
 You can find more details in the PDF.
 
 Enjoy the challenge!
 
-Best
+Best,  
+
 Post AG Data Science Team
